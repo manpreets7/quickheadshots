@@ -20,7 +20,7 @@ Visit [quickheadshots.com](https://quickheadshots.com) to get started with your 
 
 ## Contact Us
 
-For any questions or support, please visit our [contact page](https://quickheadshots.com/contact).
+For any questions or support, please email us at [support@quickheadshots.com](mailto:support@quickheadshots.com).
 
 ---
 
